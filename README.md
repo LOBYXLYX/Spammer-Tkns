@@ -1,16 +1,18 @@
 # Spammer-Tkns
-Created by me
+• Created by me
 
 
 
-# Installation#
-input you tokens in **tokens.txt**
+# Installation
 
-python -m pip install -r requirements.txt
+
+• Input you tokens in **tokens.txt**
+
+• python -m pip install -r requirements.txt
 ### Run with
 python main.py
 
-# Features
+# 🌟Features
 • Mass reply
 
 • Mass ping
